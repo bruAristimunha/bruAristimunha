@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 - Self-adaptable and self-start IT professional that enjoys learning new concepts and tools to solve problems. Check my linkedin for my full job and projects history. 
    
 <h2>🛠 &nbsp;Tech Stack</h2>
-- I have experience working with many different programming languages and frameworks, most notably: Python, Kotlin, Linux, Java, AWS, C, and Haskell. 
+
+- I have experience working with many different programming languages and frameworks, most notably: Python, Kotlin, Linux, Java, AWS, C, and Haskell.
+
 - I have a background in Python packages, such as Numpy, Scipy, Pandas, Scikit-Learn, Pytorch, Tensorflow, Dash, and Dask. Also, brain signal ecosystem: Braindecode, MNE, Moabb.
