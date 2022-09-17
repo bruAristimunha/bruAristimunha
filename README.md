@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - I am a PhD student at the Federal University of ABC, collaborating at King's College London. 
 - At moment, I am Visiting PHD Student at King's College London. 
+- I am an open-source maintainer of the Braindecode, Pytorch library for EEG Decoding (https://github.com/braindecode/).
 - I am a Data scientist skilled in machine learning, deep learning, and electrophysiological signal processing. 
 - Self-adaptable and self-start IT professional that enjoys learning new concepts and tools to solve problems. Check my linkedin for my full job and projects history. 
    
