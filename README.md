@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h2> 💬 &nbsp;About Me </h2>
 
-- I am a PhD student in Computer Science (Université Paris-Saclay 🇫🇷 and Federal University of ABC 🇧🇷). 
+- I am a PhD in Computer Science (Université Paris-Saclay 🇫🇷 and Federal University of ABC 🇧🇷). 
 - I am an open-source maintainer of the Braindecode, Pytorch library for EEG Decoding (https://github.com/braindecode/).
 - I am a Data scientist skilled in machine learning, deep learning, and electrophysiological signal processing. 
 - Self-adaptable and self-start IT professional that enjoys learning new concepts and tools to solve problems. Check my linkedin for my full job and projects history. 
