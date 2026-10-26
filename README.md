@@ -1,33 +1,5 @@
-### Hello World
+Bruno Aristimunha is a Research Associate at the Institute for Neural Computation, UC San Diego, and a Research Scientist at Yneuro.
 
-<!--
-**bruAristimunha/bruAristimunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+His research focuses on representation learning from time series, with brain signals such as EEG as a central application, combining deep learning, Riemannian geometry, and reproducible benchmarking. He earned his PhD in Computer Science through a joint program between Université Paris-Saclay and the Federal University of ABC in Brazil.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center">Hello there 👋! My name is Bruno Aristimunha</h2>
-
-<p align="center"><a href="https://twitter.com/BAristimunha"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/bruaristimunha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-</p>
-
-<h2> 💬 &nbsp;About Me </h2>
-
-- I am a PhD in Computer Science (Université Paris-Saclay 🇫🇷 and Federal University of ABC 🇧🇷). 
-- I am an open-source maintainer of the Braindecode, Pytorch library for EEG Decoding (https://github.com/braindecode/).
-- I am a Data scientist skilled in machine learning, deep learning, and electrophysiological signal processing. 
-- Self-adaptable and self-start IT professional that enjoys learning new concepts and tools to solve problems. Check my linkedin for my full job and projects history. 
-   
-<h2>🛠 &nbsp;Tech Stack</h2>
-
-- I have experience working with many different programming languages and frameworks, most notably: Python, Kotlin, Linux, Java, AWS, C, and Haskell.
-
-- I have a background in Python packages, such as Numpy, Scipy, Pandas, Scikit-Learn, Pytorch, Tensorflow, Dash, and Dask. Also, brain signal ecosystem: Braindecode, MNE, Moabb.
+A committed advocate of open science, he is the lead maintainer of Braindecode and MOABB and the creator of EEGDash and SPD Learn, open-source tools that have collectively surpassed one million installations. He led the NeurIPS 2025 EEG Foundation Challenge, which drew nearly 1,200 teams, and is now leading its 2026 edition. He also serves as a reviewer for NeurIPS, ICLR, ICML, and JMLR.
